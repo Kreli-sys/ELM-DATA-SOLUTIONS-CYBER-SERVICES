@@ -17,7 +17,7 @@ export const BUSINESS_DETAILS = {
   phones: ["0725514043" / "0712483657"],
   emails: ["elmdatasolutions@gmail.com" / "truprintc@gmail.com"],
   location: "Nakuru / Njoro, Kenya",
-  whatsapp: "254725514043 / 254712483657"
+  whatsapp: "254725514043", "254712483657"
 };
 
 export const SERVICES = [
