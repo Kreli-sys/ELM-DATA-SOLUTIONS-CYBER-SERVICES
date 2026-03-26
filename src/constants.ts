@@ -14,10 +14,10 @@ import {
 
 export const BUSINESS_DETAILS = {
   name: "ELM Data Solutions - TRUPRINT Cyber Services",
-  phones: ["0725514043" , "0712483657"],
-  emails: ["elmdatasolutions@gmail.com" , "truprintc@gmail.com"],
+  phones: ["0725514043", "0712483657"],
+  emails: ["elmdatasolutions@gmail.com", "truprintc@gmail.com"],
   location: "Nakuru / Njoro, Kenya",
-  whatsapp: "254725514043" , "254712483657"
+  whatsapp: "254725514043"
 };
 
 export const SERVICES = [
