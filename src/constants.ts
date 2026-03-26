@@ -14,10 +14,10 @@ import {
 
 export const BUSINESS_DETAILS = {
   name: "ELM Data Solutions - TRUPRINT Cyber Services",
-  phones: ["0725514043", "0712483657"],
-  emails: ["elmdatasolutions@gmail.com", "truprintc@gmail.com"],
+  phones: ["0725514043" / "0712483657"],
+  emails: ["elmdatasolutions@gmail.com" / "truprintc@gmail.com"],
   location: "Nakuru / Njoro, Kenya",
-  whatsapp: "254725514043"
+  whatsapp: "254725514043 / 254712483657"
 };
 
 export const SERVICES = [
@@ -100,7 +100,7 @@ export const BLOG_POSTS = [
     7. Upload the file on the iTax portal and submit.
     8. Download the acknowledgment receipt.
     
-    If you find the process complex, visit us at ELM Data Solutions for professional assistance.`
+    If you find the process complex, visit us at ELM Data Solutions/TruPrint Cyber for professional assistance.`
   },
   {
     id: 3,
