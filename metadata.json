@@ -1,0 +1,7 @@
+{
+  "name": "ELM Data Solutions - TRUPRINT Cyber Services",
+  "description": "Your Trusted Digital & Data Solutions Partner in Nakuru. Professional cyber services, KRA returns, eCitizen applications, and design & print solutions.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
